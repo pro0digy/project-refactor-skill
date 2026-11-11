@@ -1,0 +1,9 @@
+interface:
+  display_name: Project Refactor
+  short_description: Safe cleanup, refactoring, and release optimization
+  default_prompt: Use $project-refactor to audit this project, propose safe cleanup,
+    and wait for approval before deleting anything.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
